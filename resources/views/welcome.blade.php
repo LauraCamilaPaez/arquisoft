@@ -11,7 +11,7 @@
     <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
     <link href='https://fonts.googleapis.com/css?family=Hind:400,500,600,700' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" href="http://arquisoft-sena.herokuapp.com/css/app.css">
+    <link rel="stylesheet" href="https://arquisoft-sena.herokuapp.com/css/app.css">
 </head>
 <body>
 <div class="layout">
@@ -1595,7 +1595,7 @@
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 
-<script src="{{ url('js/app.js') }}"></script>
+<script src="https://arquisoft-sena.herokuapp.com/js/app.js"></script>
 <script>
     if (typeof $.fn.revolution !== 'undefined') {
 
